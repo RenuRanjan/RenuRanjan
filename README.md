@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RenuRanjan
+- 👋 Hi, I’m @Renu
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, PYTHON, POWER BI, TABLEAU
 
